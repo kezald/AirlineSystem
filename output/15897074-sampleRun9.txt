@@ -1,0 +1,101 @@
+1. VY708 AirBus company. Departing at: 13:50. From "New York" to "London"
+2. PI964 Boeing company. Departing at: 20:15. From "Adelaide" to "Auckland"
+3. OE232 Boeing company. Departing at: 08:45. From "Los Angeles" to "Sao Paulo"
+4. OQ364 Boeing company. Departing at: 17:20. From "Los Angeles" to "Moscow"
+5. YU074 AirBus company. Departing at: 21:35. From "Madrid" to "Paris"
+6. CH857 Boeing company. Departing at: 01:25. From "New York" to "Tokyo"
+7. Generate 6 random flights again
+
+Select the number of flight: 2
+
+1. RynoAir
+2. SimpleJet
+Select an airline: 1
+
+Welcome to the RynoAir Airline reservation system (Boeing company)
+Booking seats for Flight: PI964. From 'Adelaide' to 'Auckland'. Departing at: 08:15 PM
+---------------------------------------------------
+    A      B      C      D      E      F      G    
+ 1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 3 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 4 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 5 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+ 6 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+ 7 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+ 8 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+ 9 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+10 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 1
+
+1. WINDOW
+2. AISLE
+3. MIDDLE
+Which seat type? 1
+
+---------------------------------------------------
+    A      B      C      D      E      F      G    
+ 1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 3 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 4 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 5 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+ 6 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+ 7 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+ 8 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+ 9 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+10 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+
+Failed to reserve a seat: no seat that matches criteria was found.
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 2
+
+1. WINDOW
+2. AISLE
+3. MIDDLE
+Which seat type? 2
+
+---------------------------------------------------
+    A      B      C      D      E      F      G    
+ 1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 3 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 4 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 5 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+ 6 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+ 7 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+ 8 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+ 9 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+10 [w X ] [a X ] [a X ] [m X ] [a X ] [a X ] [w X ]
+
+Failed to reserve a seat: no seat that matches criteria was found.
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 3
+
+Enter a row number and a column symbol, seperated by dash "1-A": 
+1-A
+Seat is either already reserved or does not exist.
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 5
+

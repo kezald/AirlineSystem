@@ -1,0 +1,69 @@
+1. IZ983 Boeing company. Departing at: 01:25. From "London" to "Bangkok"
+2. JR128 AirBus company. Departing at: 10:45. From "Tokyo" to "Seoul/Incheon"
+3. JY541 AirBus company. Departing at: 07:35. From "London" to "Sao Paulo"
+4. WE916 AirBus company. Departing at: 12:15. From "London" to "New York"
+5. SS248 AirBus company. Departing at: 22:15. From "Auckland" to "Adelaide"
+6. IR322 AirBus company. Departing at: 00:25. From "Moscow" to "Sao Paulo"
+7. Generate 6 random flights again
+
+Select the number of flight: 1
+
+1. RynoAir
+2. SimpleJet
+Select an airline: 2
+
+Welcome to the SimpleJet Airline reservation system (Boeing company)
+Booking seats for Flight: IZ983. From 'London' to 'Bangkok'. Departing at: 01:25 AM
+---------------------------------------------------
+    A      B      C      D      E      F      G    
+ 1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 3 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 4 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 5 [w _ ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ]
+ 6 [w _ ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ]
+ 7 [w _ ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ]
+ 8 [w _ ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ]
+ 9 [w _ ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ]
+10 [w _ ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ]
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 1
+
+1. WINDOW
+2. AISLE
+3. MIDDLE
+Which seat type? 1
+
+---------------------------------------------------
+    A      B      C      D      E      F      G    
+ 1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 3 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 4 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 5 [w X ] [a X ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ]
+ 6 [w _ ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ]
+ 7 [w _ ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ]
+ 8 [w _ ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ]
+ 9 [w _ ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ]
+10 [w _ ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w _ ]
+
+All first class seats are reserved. Reserving seats from Economy class...
+
+Seats reserved: 
+Economy class WINDOW seat at: 5A
+Economy class AISLE seat at: 5B
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 5
+
+
+

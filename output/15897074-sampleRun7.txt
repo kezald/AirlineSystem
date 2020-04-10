@@ -1,0 +1,63 @@
+1. KG318 Boeing company. Departing at: 11:00. From "Sao Paulo" to "Seoul/Incheon"
+2. WW682 Boeing company. Departing at: 16:50. From "Sao Paulo" to "Auckland"
+3. CU975 AirBus company. Departing at: 09:40. From "Paris" to "London"
+4. YD538 Boeing company. Departing at: 15:05. From "London" to "Moscow"
+5. MF268 Boeing company. Departing at: 08:50. From "Madrid" to "Los Angeles"
+6. XI356 Boeing company. Departing at: 15:10. From "Madrid" to "Bangkok"
+7. Generate 6 random flights again
+
+Select the number of flight: 2
+
+1. RynoAir
+2. SimpleJet
+Select an airline: 2
+
+Welcome to the SimpleJet Airline reservation system (Boeing company)
+Booking seats for Flight: WW682. From 'Sao Paulo' to 'Auckland'. Departing at: 04:50 PM
+---------------------------------------------------
+    A      B      C      D      E      F      G    
+ 1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 3 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 4 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 5 [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w X ]
+ 6 [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w X ]
+ 7 [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w X ]
+ 8 [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w X ]
+ 9 [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w X ]
+10 [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w X ]
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 1
+
+1. WINDOW
+2. AISLE
+3. MIDDLE
+Which seat type? 1
+
+---------------------------------------------------
+    A      B      C      D      E      F      G    
+ 1 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 2 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 3 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 4 [W X ] [A X ] [A X ] [M X ] [A X ] [A X ] [W X ]
+ 5 [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w X ]
+ 6 [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w X ]
+ 7 [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w X ]
+ 8 [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w X ]
+ 9 [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w X ]
+10 [w X ] [a _ ] [a _ ] [m X ] [a _ ] [a _ ] [w X ]
+
+Failed to reserve a seat: no seat that matches criteria was found.
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 5
+

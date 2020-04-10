@@ -1,0 +1,68 @@
+1. KQ027 AirBus company. Departing at: 12:55. From "Los Angeles" to "Madrid"
+2. EY789 Boeing company. Departing at: 18:05. From "Moscow" to "Paris"
+3. QS589 AirBus company. Departing at: 18:20. From "Auckland" to "Moscow"
+4. EB678 Boeing company. Departing at: 02:10. From "Auckland" to "Seoul/Incheon"
+5. RB785 AirBus company. Departing at: 19:35. From "Sao Paulo" to "Moscow"
+6. FE756 Boeing company. Departing at: 12:40. From "Seoul/Incheon" to "Adelaide"
+7. Generate 6 random flights again
+
+Select the number of flight: 1
+
+1. RynoAir
+2. SimpleJet
+Select an airline: 1
+
+Welcome to the RynoAir Airline reservation system (AirBus company)
+Booking seats for Flight: KQ027. From 'Los Angeles' to 'Madrid'. Departing at: 12:55 PM
+-----------------------------------------------------------------
+    A      B      C      D      E      F      G      H      I    
+ 1 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+ 2 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+ 3 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+ 4 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+ 5 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+ 6 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+ 7 [w _ ] [m _ ] [a X ] [a X ] [m _ ] [a X ] [a X ] [m _ ] [w _ ]
+ 8 [w _ ] [m _ ] [a X ] [a X ] [m _ ] [a X ] [a X ] [m _ ] [w _ ]
+ 9 [w _ ] [m _ ] [a X ] [a X ] [m _ ] [a X ] [a X ] [m _ ] [w _ ]
+10 [w _ ] [m _ ] [a X ] [a X ] [m _ ] [a X ] [a X ] [m _ ] [w _ ]
+11 [w _ ] [m _ ] [a X ] [a X ] [m _ ] [a X ] [a X ] [m _ ] [w _ ]
+12 [w _ ] [m _ ] [a X ] [a X ] [m _ ] [a X ] [a X ] [m _ ] [w _ ]
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 1
+
+1. WINDOW
+2. AISLE
+3. MIDDLE
+Which seat type? 1
+
+-----------------------------------------------------------------
+    A      B      C      D      E      F      G      H      I    
+ 1 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+ 2 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+ 3 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+ 4 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+ 5 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+ 6 [W X ] [M X ] [A X ] [A X ] [M X ] [A X ] [A X ] [M X ] [W X ]
+ 7 [w _ ] [m _ ] [a X ] [a X ] [m _ ] [a X ] [a X ] [m _ ] [w _ ]
+ 8 [w _ ] [m _ ] [a X ] [a X ] [m _ ] [a X ] [a X ] [m _ ] [w _ ]
+ 9 [w _ ] [m _ ] [a X ] [a X ] [m _ ] [a X ] [a X ] [m _ ] [w _ ]
+10 [w _ ] [m _ ] [a X ] [a X ] [m _ ] [a X ] [a X ] [m _ ] [w _ ]
+11 [w _ ] [m _ ] [a X ] [a X ] [m _ ] [a X ] [a X ] [m _ ] [w _ ]
+12 [w _ ] [m _ ] [a X ] [a X ] [m _ ] [a X ] [a X ] [m _ ] [w _ ]
+
+Failed to reserve a seat: no seat that matches criteria was found.
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 5
+
+

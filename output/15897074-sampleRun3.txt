@@ -1,0 +1,138 @@
+1. BY024 AirBus company. Departing at: 12:40. From "Seoul/Incheon" to "Moscow"
+2. VX233 Boeing company. Departing at: 13:25. From "New York" to "Adelaide"
+3. PF527 Boeing company. Departing at: 00:00. From "Bangkok" to "Los Angeles"
+4. BL648 AirBus company. Departing at: 02:45. From "Tokyo" to "London"
+5. JU570 AirBus company. Departing at: 23:35. From "Adelaide" to "Sao Paulo"
+6. FQ008 Boeing company. Departing at: 00:45. From "Tokyo" to "New York"
+7. Generate 6 random flights again
+
+Select the number of flight: 1
+
+1. RynoAir
+2. SimpleJet
+Select an airline: 2
+
+Welcome to the SimpleJet Airline reservation system (AirBus company)
+Booking seats for Flight: BY024. From 'Seoul/Incheon' to 'Moscow'. Departing at: 12:40 PM
+-----------------------------------------------------------------
+    A      B      C      D      E      F      G      H      I    
+ 1 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 2 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 3 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 4 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 5 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 6 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 7 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 8 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 9 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+10 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+11 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+12 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 1
+
+1. WINDOW
+2. AISLE
+3. MIDDLE
+Which seat type? 1
+
+-----------------------------------------------------------------
+    A      B      C      D      E      F      G      H      I    
+ 1 [W X ] [M X ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 2 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 3 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 4 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 5 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 6 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 7 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 8 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 9 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+10 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+11 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+12 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+
+Requested type not found. Reserving a different seat in the same class...
+The following seat was reserved: First class MIDDLE seat at: 1B.
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 1
+
+1. WINDOW
+2. AISLE
+3. MIDDLE
+Which seat type? 1
+
+-----------------------------------------------------------------
+    A      B      C      D      E      F      G      H      I    
+ 1 [W X ] [M X ] [A X ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 2 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 3 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 4 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 5 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 6 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 7 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 8 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 9 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+10 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+11 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+12 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+
+Requested type not found. Reserving a different seat in the same class...
+The following seat was reserved: First class AISLE seat at: 1C.
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 2
+
+1. WINDOW
+2. AISLE
+3. MIDDLE
+Which seat type? 3
+
+-----------------------------------------------------------------
+    A      B      C      D      E      F      G      H      I    
+ 1 [W X ] [M X ] [A X ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 2 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 3 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 4 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 5 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 6 [W X ] [M _ ] [A _ ] [A _ ] [M _ ] [A _ ] [A _ ] [M _ ] [W X ]
+ 7 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 8 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+ 9 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+10 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+11 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+12 [w X ] [m X ] [a X ] [a X ] [m X ] [a X ] [a X ] [m X ] [w X ]
+
+Failed to reserve a seat: no seat that matches criteria was found.
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 3
+
+Enter a row number and a column symbol, seperated by dash "1-A": 
+12-A
+Seat is either already reserved or does not exist.
+
+1. Reserve First Class
+2. Reserve Economy Class
+3. Enter Seat Manually
+4. Show Seating Map
+5. Quit
+Enter a number: 5
+
